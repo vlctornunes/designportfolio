@@ -9,7 +9,7 @@
 .aali_tm_settings .colors li a.purple{background-color: #9200ee;}
 .aali_tm_settings .colors li a.sky{background-color: #00D4BD;}
 .aali_tm_settings .colors li a.cadetBlue{background-color: #5e9e9f;}
-.aali_tm_settings .colors li a.crimson{background-color: #ea4343;}
+.aali_tm_settings .colors li a.crimson{background-color: #fafafa;}
 .aali_tm_settings .colors li a.olive{background-color: #666d41;}
 .aali_tm_settings .colors li a.red{background-color: #fe0000;}
 
@@ -474,50 +474,50 @@ body.dark .aali_tm_all_wrap[data-color="olive"] .aali_tm_header.animate .menu ul
 .aali_tm_all_wrap[data-color="olive"] .aali_tm_service .service_list .icon .svg{fill: #666d41;}
 
 
-.aali_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_header .menu ul li.current a{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_header .menu ul li a:hover{color: #ea4343;}
-body.dark .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header.animate .menu ul li.current a{color: #ea4343;}
-body.dark .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header.animate .menu ul li a:hover{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .content .name{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button a{background-color: #ea4343;border-color: #ea4343;}
+.aali_tm_all_wrap[data-color="crimson"] .cursor-inner.cursor-hover{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .cursor-outer{border-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .cursor-inner{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_header .menu ul li.current a{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_header .menu ul li a:hover{color: #fafafa;}
+body.dark .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header.animate .menu ul li.current a{color: #fafafa;}
+body.dark .aali_tm_all_wrap[data-color="crimson"] .aali_tm_header.animate .menu ul li a:hover{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .content .name{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button a{background-color: #fafafa;border-color: #fafafa;}
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button a:hover{background-color: transparent;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .three .in{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .one .in{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .two .in{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .five .in{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .socials ul a:hover{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .center .small{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .center h3 span{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .square{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .right .square{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_skills{background-color: #ea4343;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .three .in{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .one .in{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .avatar .two .in{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .five .in{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_hero .socials ul a:hover{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .center .small{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .center h3 span{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .square{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_about .right .square{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_skills{background-color: #fafafa;}
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_portfolio .portfolio_list ul li .list_inner .overlay{background-color: rgba(234,67,67,.72);}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_main_title span{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .square_right{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .service_list .price span{color: #ea4343;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_main_title span{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .square_right{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .service_list .price span{color: #fafafa;}
 .aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a{background-color: transparent;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a:hover{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a:hover svg{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border .svg{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .media .square{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .main_title span:before{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .icon{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_testimonials{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_news .news_list ul li .details .category a{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_news .news_list ul li .details .title a:hover{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_learn_more a{border-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_learn_more a:hover{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_counter{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_contact .left ul li h3{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_contact .left ul li a{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .square{background-color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .social ul li a{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .social ul li a:hover{background-color: #ea4343;color: #fff;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_modalbox .service_popup_informations .main_title span span{color: #ea4343;}
-.aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .service_list .icon .svg{fill: #ea4343;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a:hover{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border a:hover svg{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_button.border .svg{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .media .square{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .main_title span:before{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_resume .icon{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_testimonials{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_news .news_list ul li .details .category a{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_news .news_list ul li .details .title a:hover{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_learn_more a{border-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_learn_more a:hover{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_counter{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_contact .left ul li h3{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_contact .left ul li a{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .square{background-color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .social ul li a{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_copyright .social ul li a:hover{background-color: #fafafa;color: #fff;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_modalbox .service_popup_informations .main_title span span{color: #fafafa;}
+.aali_tm_all_wrap[data-color="crimson"] .aali_tm_service .service_list .icon .svg{fill: #fafafa;}
 
 
 .aali_tm_all_wrap[data-color="red"] .cursor-inner.cursor-hover{background-color: #fe0000;}
