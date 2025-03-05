@@ -127,9 +127,8 @@ body.dark::-webkit-scrollbar {
 }
 
 h1, h2, h3, h4, h5, h6{
-	font-weight:700;
 	line-height: 1.2;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	color: #15111e;
 }
 
@@ -346,7 +345,7 @@ h6 { font-size: 16px; }
 	color: #000;
 	display: inline-block;
 	padding: 0px 0px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-weight: 600;
 }
 .aali_tm_mobile_menu .hamburger{
@@ -420,7 +419,7 @@ h6 { font-size: 16px; }
 .aali_tm_header .menu ul li a{
 	text-decoration: none;
 	color: #fff;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-weight: 600;
 	
 	-webkit-transition: all .3s ease;
@@ -472,7 +471,7 @@ h6 { font-size: 16px; }
 	left: auto;
 }
 .aali_tm_hero .content .hello{
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-size: 25px;
 	font-weight: 700;
 	color: #fff;
@@ -495,7 +494,7 @@ h6 { font-size: 16px; }
 	font-weight: 700;
 	color: #fff;
 	letter-spacing: -.2px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 }
 .aali_tm_hero .cd-headline b{
 	font-size: 75px;
@@ -530,7 +529,7 @@ h6 { font-size: 16px; }
 .aali_tm_button a{
 	text-decoration: none;
 	color: #fff;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	display: inline-block;
 	background-color: #fafafa;
 	font-weight: 700;
@@ -592,7 +591,7 @@ h6 { font-size: 16px; }
 .aali_tm_hero .simple_button a{
 	text-decoration: none;
 	color: #fff;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-weight: 700;
 	white-space: nowrap;
 }
@@ -857,7 +856,7 @@ h6 { font-size: 16px; }
 	margin-bottom: 34px;
 }
 .aali_tm_about .center .small{
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-size: 24px;
 	font-weight: 700;
 	color: #fafafa;
@@ -874,9 +873,8 @@ h6 { font-size: 16px; }
 	color: #fafafa;
 }
 .aali_tm_about .center .subtitle{
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-size: 36px;
-	font-weight: 700;
 	color: #15111e;
 	letter-spacing: -.2px;
 	display: inline-block;
@@ -988,9 +986,8 @@ h6 { font-size: 16px; }
 }
 .aali_tm_main_title span{
 	font-size: 24px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	color: #fafafa;
-	font-weight: 700;
 	letter-spacing: -.2px;;
 	display: inline-block;
 	margin-bottom: 5px;
@@ -1029,7 +1026,7 @@ h6 { font-size: 16px; }
 	display:block;
 	text-align:left;
 	color: #fff;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-size: 21px;
 	font-weight: 700;
 	letter-spacing: -.2px;
@@ -1106,7 +1103,7 @@ h6 { font-size: 16px; }
 	text-decoration: none;
 	color: #fff;
 	font-weight: 700;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -1365,7 +1362,7 @@ h6 { font-size: 16px; }
 .aali_tm_modalbox .portfolio_main_title span{
 	display: inline-block;
 	margin-bottom: 5px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 }
 .aali_tm_modalbox .portfolio_main_title h3{
 	font-weight: 700;
@@ -1408,7 +1405,7 @@ h6 { font-size: 16px; }
     font-weight: 700;
 	display: block;
 	color: #000;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	margin-bottom: 3px;
 }
 .aali_tm_modalbox .main_details .detailbox span a{
@@ -1573,7 +1570,7 @@ h6 { font-size: 16px; }
 	font-weight: 700;
 	font-size: 18px;
 	letter-spacing: -.2px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 }
 .aali_tm_service .service_list .price span{
 	font-size: 30px;
@@ -1664,7 +1661,7 @@ h6 { font-size: 16px; }
 	font-weight: 700;
     font-size: 18px;
     letter-spacing: -.2px;
-    font-family: "Josefin Sans";
+    font-family: "Germania One", system-ui;
 	color: #7d7789;
 }
 .aali_tm_modalbox .service_popup_informations .main_title span span{
@@ -1782,15 +1779,13 @@ h6 { font-size: 16px; }
 }
 .aali_tm_resume .info .left h3{
 	font-size: 24px;
-	font-weight: 700;
 	letter-spacing: -.2px;
 	margin-bottom: 3px;
 }
 .aali_tm_resume .info .left span{
 	font-size: 18px;
-	font-weight: 700;
 	letter-spacing: -.2px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	color: #15111e;
 }
 .aali_tm_resume .info .right span{
@@ -2076,7 +2071,7 @@ h6 { font-size: 16px; }
 	text-decoration: none;
 	color: #fafafa;
 	font-weight: 700;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 }
 .aali_tm_news .news_list ul li .details .title{
 	margin-bottom: 13px;
@@ -2113,7 +2108,7 @@ h6 { font-size: 16px; }
 	text-decoration: none;
 	display: inline-block;
 	color: #15111e;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	letter-spacing: -.2px;
 	border: 2px solid #fafafa;
 	border-radius: 6px;
@@ -2180,7 +2175,7 @@ h6 { font-size: 16px; }
 	text-decoration: none;
 	color: #7d7789;
 	font-size: 16px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	display: inline-block;
 	margin-bottom: 3px;
 }
@@ -2232,14 +2227,14 @@ h6 { font-size: 16px; }
 	padding: 0px 20px;
 }
 .aali_tm_counter .counter_list .value span{
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-size: 72px;
 	color: #f4f5fe;
 	font-weight: 700;
 	position: relative;
 }
 .aali_tm_counter .counter_list .value .big{
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-size: 72px;
 	color: #f4f5fe;
 	font-weight: 700;
@@ -2337,15 +2332,13 @@ h6 { font-size: 16px; }
 	color: #33303a;
 }
 .aali_tm_contact .left ul li span{
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-size: 18px;
-	font-weight: 700;
 	color: #15111e;
 	letter-spacing: -.2px;
 }
 .aali_tm_contact .left ul li h3{
 	font-size: 30px;
-	font-weight: 700;
 	color: #fafafa;
 	letter-spacing: -.2px;
 }
@@ -2520,7 +2513,7 @@ input[type=number] {
 }
 .aali_tm_copyright .social span{
 	padding-right: 30px;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-weight: 700;
 	color: #fff;
 	display: inline-block;
@@ -2999,7 +2992,7 @@ body.intro .loader_line:after{
 }
 .aali_tm_settings .title{
 	color: #fff;
-	font-family: "Josefin Sans";
+	font-family: "Germania One", system-ui;
 	font-weight: 600;
 	position: relative;
 	display: inline-block;
