@@ -968,7 +968,7 @@ h6 { font-size: 16px; }
 }
 .aali_tm_main_title[data-text-align="center"]{
 	text-align: center;
-	margin: 0px auto;
+	margin: 0px auto 50px;
 }
 .aali_tm_main_title[data-text-align="right"]{
 	text-align: right;
@@ -2502,7 +2502,6 @@ input[type=number] {
 	        transition: all .3s ease;
 }
 .aali_tm_copyright .social ul li a:hover{
-	background-color: #fafafa;
 	color: #fff;
 }
 .aali_tm_copyright .social span{
