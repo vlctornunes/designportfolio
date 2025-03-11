@@ -420,7 +420,6 @@ h6 { font-size: 16px; }
 	text-decoration: none;
 	color: #fff;
 	font-family: "Germania One", system-ui;
-	font-weight: 600;
 	
 	-webkit-transition: all .3s ease;
 	   -moz-transition: all .3s ease;
@@ -491,7 +490,6 @@ h6 { font-size: 16px; }
 }
 .aali_tm_hero .cd-headline{
 	font-size: 40px;
-	font-weight: 700;
 	color: #fff;
 	letter-spacing: -.2px;
 	font-family: "Germania One", system-ui;
@@ -1550,7 +1548,7 @@ h6 { font-size: 16px; }
 	background-color: transparent;
 }
 .aali_tm_service .service_list ul li.text{
-	text-align: center;
+	text-align: left;
 	padding: 0px 100px;
 }
 .aali_tm_service .service_list .title{
@@ -2493,7 +2491,6 @@ input[type=number] {
 	display: inline-block;
 	width: 48px;
 	height: 48px;
-	background-color: #fff;
 	border-radius: 100%;
 	text-align: center;
 	line-height: 48px;
